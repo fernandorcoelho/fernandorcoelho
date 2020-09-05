@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Fernando 👋
 
 <!--
 **fernandorcoelho/fernandorcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🔭 The technologies I'm currently learning to work with 🌱
+- [React]
+- [React Native]
+- [TypeScript]
+- [NodeJs]
+- [Express]
+- [Expo-Cli]
+- [KnexJS]
+- [SQLite3]
+
+👯 I’m looking to work on collaborative organizations as a Web Developer
+
+📫 How to reach me
+- Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
+- E-mail: fernando.ufv14@gmail.com
+- Facebook: https://www.facebook.com/nando.coelho.3/
