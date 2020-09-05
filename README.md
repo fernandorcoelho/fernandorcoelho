@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 - Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
 - E-mail: fernando.ufv14@gmail.com
 - Facebook: https://www.facebook.com/nando.coelho.3/
+
+react css3 html5 javascript postgresql nodejs
