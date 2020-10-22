@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🔭 The technologies I'm currently learning to work with 🌱
 - [React]
 - [React Native]
+- [VueJS]
 - [TypeScript]
 - [NodeJs]
+- [Laravel]
+- [MySQL]
 - [Express]
 - [Expo-Cli]
 - [KnexJS]
 - [SQLite3]
-
-👯 I’m looking to work on collaborative organizations as a Web Developer
 
 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
