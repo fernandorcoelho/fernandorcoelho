@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 The technologies I'm currently learning to work with 🌱
+🔭 The technologies I'm currently working with 🌱
 - [React]
 - [React Native]
 - [VueJS]
