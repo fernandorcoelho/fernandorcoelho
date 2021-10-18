@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+⚡ I’m currently working on
+- [Front-End and UI/UX Design to build amazing Cryptocurrencies Exchanges]
+
 🔭 The technologies I'm currently working with 🌱
-- [React]
-- [React Native]
-- [VueJS]
-- [TypeScript]
-- [NodeJs]
 - [Laravel]
-- [MySQL]
-- [Express]
-- [Expo-Cli]
-- [KnexJS]
-- [SQLite3]
+- [TailwindCSS]
+- [Livewire]
+- [AlpineJS]
+- [MySQL/DBeaver]
+
+🌱 I’m currently learning
+- [Figma for UI/UX Design]
 
 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
 - E-mail: fernando.ufv14@gmail.com
 - Facebook: https://www.facebook.com/nando.coelho.3/
+- WhatsApp: +55 (31) 9 9384-7474
