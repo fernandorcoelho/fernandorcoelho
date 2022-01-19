@@ -16,17 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ⚡ I’m currently working on
-- [Front-End and UI/UX Design to build amazing Cryptocurrencies Exchanges]
+- [Front-End]
 
 🔭 The technologies I'm currently working with 🌱
-- [Laravel]
-- [TailwindCSS]
-- [Livewire]
-- [AlpineJS]
-- [MySQL/DBeaver]
+- [ReactJS]
+- [NextJS]
+- [Styled Components]
 
 🌱 I’m currently learning
-- [Figma for UI/UX Design]
+- [React and NextJS]
 
 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
