@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - [Front-End]
 
 🔭 The technologies I'm currently working with 🌱
-- [ReactJS]
-- [NextJS]
+- [React.js]
+- [Next.js]
 - [Styled Components]
 
 🌱 I’m currently learning
-- [React and NextJS]
+- [React.js, ReactNative and Next.js]
 
 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/fernandorcoelho/ 
