@@ -1,6 +1,6 @@
 # Hello there 👨‍💻️
 
-My name is Lucas Medeiros.
+I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 ⚡ I’m currently working on 
 
