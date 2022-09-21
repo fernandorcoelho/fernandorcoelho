@@ -4,7 +4,7 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 ⚡ I’m currently working on 
 
-* [Back-end, Front-end]
+* Front-end
 
 🔭 The technologies I'm currently working with 🌱
 
@@ -15,6 +15,8 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 * [ Typescript ]
 
 * [ styled-components ]
+
+* [ TailwindCSS ]
 
 
 🌱 I’m currently learning
