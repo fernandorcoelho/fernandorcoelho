@@ -4,7 +4,7 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 ⚡ I’m currently working on 
 
-* Front-end
+* Front-end Web and Mobile applications
 
 🔭 The technologies I'm currently working with 🌱
 
