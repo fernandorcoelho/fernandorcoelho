@@ -8,6 +8,8 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 🔭 The technologies I'm currently working with 🌱
 
+* [ React Native ]
+
 * [ React.js ]
 
 * [ Next.js ]
@@ -22,6 +24,8 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 🌱 I’m currently learning
 
 * [ Next.js ❤️ ]
+
+* [ React Native ❤️ ]
 
 📫 How to reach me
 
