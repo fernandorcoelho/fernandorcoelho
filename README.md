@@ -20,12 +20,15 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 * [ TailwindCSS ]
 
+* [ Next.js ]
+
+* [ React Native ]
+
 
 🌱 I’m currently learning
 
-* [ Next.js ❤️ ]
+* [ Node.js ]
 
-* [ React Native ❤️ ]
 
 📫 How to reach me
 
