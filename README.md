@@ -24,10 +24,20 @@ I am Fernando Rodrigues Coelho, a passionate Front-end developer!
 
 * [ React Native ]
 
+* [ Node.js ]
+
+* [ TypeORM ]
+
+* [ SQL ]
+
 
 🌱 I’m currently learning
 
-* [ Node.js ]
+* [ Docker ]
+  
+* [ DevOps ]
+  
+* [ Infra ]
 
 
 📫 How to reach me
